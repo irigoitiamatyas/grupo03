@@ -1,5 +1,5 @@
 package modelo;
-//prueba
+s
 public class Calificacion {
 
 	private long idCalificacion;
